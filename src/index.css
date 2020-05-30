@@ -42,3 +42,13 @@ body {
   font-weight: 700;
   font-style: italic;
 }
+.hello-btn{
+  height:auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: blue;
+  color: white;
+  font-weight: 100;
+  font-size: medium;
+  margin-right: 5%;
+}
